@@ -1,7 +1,6 @@
 #Binary Search in Python
 
 # A binary search algorithm uses a technique called “divide and conquer” to tackle its task. 
-# The merge sort algorithm employs the same technique to sort items in a list.
 
 # Time Complexity: O(log n). 
 # The best-case time complexity would be O(1) when the central index would directly match the desired value. Binary search worst case differs from that. 
