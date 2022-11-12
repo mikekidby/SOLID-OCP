@@ -6,7 +6,7 @@
 
 //Note: By default, JavaScript does not have interfaces, but this principle still applies. 
 //So let’s explore this as if the interface exists, so you will know how it works for other programming languages like Java.
-
+//Note: this was re written in java
 
 //A typical interface will contain methods and properties. When you implement this interface into any class, 
 //then the class needs to define all its methods. For example, suppose you have an interface that defines methods to draw specific shapes.
